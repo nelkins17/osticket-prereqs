@@ -50,59 +50,62 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Download and install HeidiSQL
 - Continue setting up osTicket in browser
 
+<p align="center">
+<img src="https://i.imgur.com/8ncjtlI.png" alt="osTicket Diagram"/>
+
 <h2>Installation Steps</h2>
 
 <p>
 1. Create a resource group in Azure.
 <br>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Step 1"/>
 </p>
 <br />
 
 <p>
-2. Create a virtual machine in Azure and login to the vm with Remote Desktop.
+2. Create a virtual machine(VM) in Azure with a login.  **Remember your login**
 <br>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Step 2"/>
 </p>
 <br />
 
 <p>
-3. Install and enable IIS in Windows.
+3. Grab the public IP of the VM which you just created.
 <br>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Step 3"/>
 </p>
 <br />
 
 <p>
 4. Download and install PHP Manager for IIS.
 <br>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Step 4"/>
 </p>
 <br />
 
 <p>
 5. Download and install Rewrite Module.
 <br>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Step 5"/>
 </p>
 <br />
 
 <p>
 6. Download and install PHP.
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Step 6"/>
 </p>
 <br />
 
 <p>
 7. Download and install VC.
 <br>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Step 7"/>
 </p>
 <br />
 
 <p>
 8. Download and install MySQL.
 <br>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Step 8"/>
 </p>
 <br />
